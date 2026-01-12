@@ -1,0 +1,1199 @@
+city,category,total_sales,total_profit
+Henderson,Furniture,8862.68,2239.9673000000003
+Los Angeles,Office Supplies,48821.513999999974,13460.628700000003
+Fort Lauderdale,Furniture,2077.1925,-563.4110000000001
+Fort Lauderdale,Office Supplies,1374.5559999999998,80.7361
+Los Angeles,Furniture,54000.040999999976,3071.5913
+Los Angeles,Technology,73029.786,13908.537900000007
+Concord,Office Supplies,1127.534,333.3191
+Seattle,Office Supplies,36038.49199999999,9915.430299999996
+Fort Worth,Office Supplies,1340.118,-148.74009999999998
+Madison,Office Supplies,1900.9199999999998,376.321
+West Jordan,Office Supplies,245.16,80.66460000000001
+San Francisco,Office Supplies,42253.15200000001,9621.249399999993
+San Francisco,Technology,34058.632000000005,6394.754999999998
+Fremont,Office Supplies,1023.1299999999999,150.07599999999996
+Philadelphia,Furniture,36495.54100000001,-6827.125399999998
+Orem,Furniture,2524.81,402.9469
+Philadelphia,Office Supplies,30658.152999999984,-3867.505800000003
+Houston,Office Supplies,16369.564000000002,-8108.925600000003
+Richardson,Technology,1097.544,123.4737
+Richardson,Furniture,190.92,-147.963
+Houston,Furniture,23183.2144,-3404.8030000000012
+Houston,Technology,24951.981999999993,1360.1800999999996
+Naperville,Technology,387.12800000000004,100.5424
+Melbourne,Office Supplies,95.616,9.5616
+Eagan,Technology,45.98,19.7714
+Eagan,Office Supplies,168.3,67.2624
+Westland,Office Supplies,1660.356,318.4317
+Dover,Technology,2496.67,591.3208999999999
+New Albany,Office Supplies,113.4,53.298
+New Albany,Furniture,96.14999999999999,20.0549
+New York City,Office Supplies,71361.00599999995,20624.78640000002
+New York City,Technology,109316.10600000004,36105.50579999999
+Troy,Office Supplies,862.0830000000001,142.88330000000008
+Troy,Furniture,2420.498,-445.2768
+Troy,Technology,1224.51,-241.75830000000002
+Chicago,Furniture,12495.222000000002,-3516.466300000001
+Gilbert,Office Supplies,1272.6719999999998,94.1836
+Gilbert,Technology,533.536,92.805
+Springfield,Office Supplies,13887.151999999998,1931.7359
+Jackson,Office Supplies,9188.405,3816.8939
+Memphis,Furniture,2546.534,-223.40780000000004
+Memphis,Office Supplies,3394.2230000000004,-1256.1073999999999
+Decatur,Office Supplies,943.0660000000001,-163.07829999999998
+Durham,Office Supplies,528.232,90.29050000000001
+Chicago,Office Supplies,13860.223999999997,-6229.829399999999
+Columbia,Furniture,9389.148,469.9996000000001
+Rochester,Technology,1926.48,566.2443999999999
+Rochester,Office Supplies,3696.594,1135.7984
+Minneapolis,Office Supplies,13035.650000000001,5741.4454
+Minneapolis,Furniture,3456.92,977.3076
+Portland,Office Supplies,967.0240000000001,23.959600000000002
+New York City,Furniture,75691.04900000001,5306.691500000002
+Saint Paul,Office Supplies,77.88,22.5852
+Chicago,Technology,22184.095000000005,3091.7269
+Aurora,Technology,3108.408,291.65459999999996
+Aurora,Furniture,5239.980000000001,-2591.1669
+Aurora,Office Supplies,3308.0899999999997,-392.2263
+Charlotte,Technology,7546.361,-94.06360000000014
+Charlotte,Office Supplies,4351.988,114.1021
+Orland Park,Technology,339.96,67.992
+Urbandale,Office Supplies,149.12,57.717999999999996
+Columbus,Office Supplies,13733.424000000003,3498.5413999999987
+Seattle,Furniture,40995.878,6208.8182
+Bristol,Office Supplies,549.8,-43.696
+Wilmington,Furniture,3135.9390000000003,517.1907000000001
+Wilmington,Office Supplies,2374.746,976.6742
+Wilmington,Technology,1786.376,453.837
+Bloomington,Furniture,787.2020000000001,-405.6677
+Phoenix,Office Supplies,3692.091999999999,-912.0566
+Columbus,Technology,15242.443000000001,1804.6321
+Roseville,Office Supplies,2948.986000000001,939.6447000000001
+Roseville,Furniture,89.64999999999999,38.7474
+Independence,Office Supplies,2417.37,975.663
+Pasadena,Office Supplies,1627.6699999999996,279.3915
+Newark,Furniture,3115.074,380.3759000000001
+Franklin,Technology,874.98,178.73520000000002
+Franklin,Furniture,7021.680999999999,676.8172999999999
+Franklin,Office Supplies,3360.3759999999993,809.3154000000001
+Scottsdale,Office Supplies,697.773,169.69339999999997
+Scottsdale,Technology,475.17600000000004,39.0381
+San Jose,Office Supplies,3084.328,891.1414999999998
+Edmond,Office Supplies,14.62,6.8714
+Edmond,Technology,944.93,236.2325
+Philadelphia,Technology,41923.318999999996,-3143.1362
+Carlsbad,Office Supplies,352.3,151.06210000000002
+San Antonio,Office Supplies,4286.655999999999,-5689.9195
+San Antonio,Technology,12401.625999999998,-1193.8421999999998
+San Antonio,Furniture,5155.246,-415.2885
+Newark,Office Supplies,6975.355999999996,1966.0535
+Decatur,Technology,2707.5160000000005,736.453
+Monroe,Technology,1610.1619999999998,483.3173999999999
+Fairfield,Office Supplies,4291.481,693.0794
+Grand Prairie,Office Supplies,159.97599999999997,-17.333599999999997
+Redlands,Office Supplies,846.212,268.1384
+Hamilton,Office Supplies,137.376,12.0854
+Westfield,Office Supplies,103.25999999999999,37.97879999999999
+Akron,Office Supplies,1113.388,22.315200000000004
+Denver,Furniture,4088.5600000000004,-607.3572
+Denver,Office Supplies,3633.647,-218.72640000000004
+Dallas,Office Supplies,6009.547999999998,-1504.6770999999999
+Whittier,Technology,444.768,44.4768
+Saginaw,Office Supplies,244.12,33.2463
+Saginaw,Technology,131.98,35.6346
+Dallas,Technology,6815.516000000001,681.3245999999999
+Medina,Office Supplies,42.922,-4.5893999999999995
+Medina,Furniture,504.038,-259.7994
+Medina,Technology,1930.7620000000002,-1078.6558
+Dublin,Office Supplies,130.69400000000002,8.1112
+Dublin,Furniture,1121.0539999999999,-50.8052
+Dublin,Technology,1149.412,-307.23550000000006
+Detroit,Office Supplies,18431.451999999997,7884.642200000002
+Detroit,Furniture,16364.01,3332.6748000000002
+Tampa,Furniture,2554.9865,-195.52970000000002
+Tampa,Office Supplies,1745.971,-9.753200000000007
+Tampa,Technology,895.123,-119.9537
+Santa Clara,Office Supplies,222.192,76.0016
+Lakeville,Furniture,2157.74,619.5094
+Lakeville,Office Supplies,2103.21,727.0926999999999
+San Francisco,Furniture,36357.308,1491.381
+San Diego,Office Supplies,7735.516,1963.5540000000003
+San Diego,Technology,19754.275999999998,3307.2918000000004
+Brentwood,Technology,1293.3580000000002,160.57760000000002
+Chapel Hill,Office Supplies,14.016,4.7304
+Morristown,Office Supplies,4478.65,1592.5256000000002
+Cincinnati,Office Supplies,519.604,44.2221
+Inglewood,Office Supplies,1844.9279999999997,544.2178
+Portland,Technology,2093.183,55.9437
+Tamarac,Office Supplies,1413.51,-351.8961
+Columbus,Furniture,9730.375999999998,593.9278000000003
+Colorado Springs,Furniture,3206.8,-929.0483999999998
+Colorado Springs,Office Supplies,429.1290000000001,-21.1017
+Belleville,Office Supplies,1346.0700000000002,137.16060000000002
+Belleville,Furniture,305.56,74.4976
+Taylor,Office Supplies,9.84,2.8536
+Lakewood,Office Supplies,1356.0920000000003,322.3133
+Arlington,Office Supplies,3773.8520000000008,349.5841
+Arvada,Furniture,497.13599999999997,57.8198
+Arvada,Office Supplies,6.264,2.0358
+Hackensack,Furniture,1066.59,303.5034
+Saint Petersburg,Technology,359.344,35.87
+Saint Petersburg,Office Supplies,798.288,44.2622
+Long Beach,Office Supplies,4726.582,1193.0974999999999
+Hesperia,Office Supplies,251.52,81.744
+Hesperia,Technology,99.99,34.9965
+Murfreesboro,Furniture,200.448,25.1991
+Layton,Office Supplies,4.96,2.3312
+Austin,Office Supplies,2859.2999999999997,-61.0099
+Lowell,Office Supplies,2674.61,686.3536
+Manchester,Office Supplies,824.3799999999999,254.272
+Manchester,Furniture,1043.92,271.4192
+Harlingen,Office Supplies,230.072,32.323499999999996
+Tucson,Office Supplies,1017.1160000000001,104.85879999999999
+Tucson,Technology,2624.45,149.22599999999997
+Quincy,Office Supplies,518.906,186.91400000000002
+Taylor,Technology,41.9,8.799
+Pembroke Pines,Furniture,617.0255,-157.0095
+Pembroke Pines,Technology,904.3279999999999,42.6314
+Des Moines,Technology,3658.274,1340.7813
+Peoria,Office Supplies,546.1380000000001,-98.51950000000001
+Las Vegas,Office Supplies,487.97200000000004,191.93380000000002
+Warwick,Office Supplies,174.88,70.5736
+Miami,Office Supplies,3436.0719999999997,-1311.8603
+Huntington Beach,Office Supplies,127.86,40.0532
+Richmond,Office Supplies,8655.410000000003,2693.6689999999994
+Louisville,Technology,5203.575,-2896.486900000001
+Lawrence,Furniture,1714.892,194.876
+Lawrence,Office Supplies,3067.2100000000005,1175.6467
+Jackson,Furniture,8190.615999999999,1243.5226999999998
+Canton,Furniture,28.4,11.076
+Canton,Office Supplies,789.73,138.2016
+New Rochelle,Technology,219.94,45.0907
+Gastonia,Office Supplies,194.356,-146.1256
+Gastonia,Technology,700.704,131.382
+Jacksonville,Office Supplies,6703.4360000000015,202.9123
+Jacksonville,Technology,29188.351999999988,-1294.7696000000003
+Auburn,Office Supplies,2244.838,567.2384999999999
+Auburn,Technology,35.12,9.1312
+Akron,Furniture,433.596,-72.0996
+Norman,Technology,1351.3300000000002,269.5287
+Concord,Furniture,6161.8060000000005,-1641.5436000000002
+Decatur,Furniture,2893.7110000000002,115.68090000000001
+Seattle,Technology,42506.372,13031.848199999997
+Phoenix,Furniture,3761.971,-1840.6810999999998
+Park Ridge,Furniture,254.744,-312.0614
+Amarillo,Furniture,3048.5828,-507.70950000000005
+Lindenhurst,Office Supplies,55.48,26.6304
+Huntsville,Technology,3227.288,725.8941
+Huntsville,Office Supplies,1862.832,231.6012
+Fayetteville,Office Supplies,4888.764000000001,1456.9297000000001
+Costa Mesa,Office Supplies,273.576,87.26759999999999
+Costa Mesa,Furniture,725.548,164.15139999999997
+Parker,Office Supplies,150.996,-34.66290000000001
+Parker,Furniture,916.946,-129.5264
+Atlanta,Office Supplies,11011.939999999999,4833.8580999999995
+Gladstone,Furniture,126.3,40.416
+Gladstone,Technology,38.04,12.1728
+Great Falls,Technology,3322.9739999999997,1480.5404
+Great Falls,Office Supplies,1282.606,102.1667
+Lakeland,Furniture,2489.5405,-376.1587
+Montgomery,Technology,2374.9,637.0730000000001
+Montgomery,Office Supplies,411.85,75.6047
+Mesa,Office Supplies,1836.0210000000002,-203.44750000000005
+Henderson,Office Supplies,4616.608,1648.4905
+Green Bay,Technology,468.9,206.316
+Fort Worth,Technology,3962.3280000000004,783.2923
+Fort Worth,Furniture,1300.2604000000001,-335.8195
+Jacksonville,Furniture,8821.395,-1231.9777
+Anaheim,Office Supplies,3812.25,824.0979
+Marysville,Office Supplies,102.18,3.3150000000000004
+Denver,Technology,4476.586,581.1636
+Richmond,Furniture,3572.31,887.2098
+Salem,Technology,940.56,59.6956
+Salem,Office Supplies,1112.5349999999999,233.19480000000001
+Laredo,Office Supplies,66.9,-0.14860000000000095
+Laredo,Technology,817.5200000000001,95.9487
+San Diego,Furniture,20031.236999999997,1106.3501999999996
+Grove City,Technology,119.94,15.992
+Grove City,Office Supplies,3.648,-2.7968
+Dearborn,Furniture,362.79999999999995,110.6876
+Dearborn,Office Supplies,1240.51,356.6988
+Miami,Technology,3662.56,357.94169999999997
+Warner Robins,Furniture,392.94,43.2234
+Vallejo,Furniture,1049.2,272.792
+Vallejo,Office Supplies,172.20999999999998,63.243500000000004
+Mission Viejo,Office Supplies,365.32,100.8449
+Rochester Hills,Technology,132.52,54.3332
+Plainfield,Office Supplies,4132.95,1097.3207
+Sierra Vista,Office Supplies,61.70399999999999,12.876900000000001
+Vancouver,Furniture,24.44,9.7312
+Vancouver,Technology,618.376,54.2782
+Arlington,Furniture,3643.274,14.867799999999988
+Louisville,Office Supplies,2669.144,725.7330000000001
+Cleveland,Furniture,911.2320000000001,-372.69769999999994
+Tyler,Office Supplies,236.86599999999999,-406.9667
+Tyler,Technology,27.816,4.5201
+Tyler,Furniture,82.524,-41.262
+Burlington,Technology,9983.716,-3311.1092000000003
+Burlington,Office Supplies,4152.56,-650.904
+Jackson,Technology,7584.8369999999995,2521.2661999999996
+Waynesboro,Furniture,1952.01,300.7514
+Waynesboro,Technology,854.46,222.1596
+Waynesboro,Office Supplies,252.3,80.47480000000002
+Chester,Office Supplies,775.231,64.75370000000001
+Long Beach,Furniture,5932.615999999999,118.22470000000006
+Cary,Office Supplies,243.824,30.2165
+Cary,Technology,261.384,23.8221
+Palm Coast,Office Supplies,41.692,-3.7040000000000006
+Mount Vernon,Office Supplies,1511.682,459.21180000000004
+Mount Vernon,Technology,607.95,203.3028
+Dover,Furniture,1491.0639999999999,26.9458
+Orem,Office Supplies,469.278,111.6866
+Austin,Technology,2662.998,75.02540000000002
+Naperville,Office Supplies,298.524,-83.49810000000001
+Green Bay,Office Supplies,22.72,10.224
+Saint Petersburg,Furniture,533.16,71.8501
+Columbia,Office Supplies,12511.988,4040.8159000000005
+Monroe,Office Supplies,297.87199999999996,121.3824
+Belleville,Technology,239.97,71.991
+Louisville,Furniture,4473.087,740.4410000000001
+Springfield,Furniture,12046.198,379.24829999999986
+Rochester,Furniture,2351.456,41.376299999999986
+New Rochelle,Office Supplies,342.786,156.8147
+Detroit,Technology,7651.482,1964.4737999999998
+Mesa,Furniture,1265.975,-448.3043999999999
+Phoenix,Technology,3546.1940000000004,-38.14549999999996
+Pasadena,Technology,1944.316,185.5571
+Auburn,Furniture,875.2099999999999,158.54700000000003
+Vancouver,Office Supplies,44.02,11.4452
+Springfield,Technology,17120.992,3889.7131999999992
+Hackensack,Office Supplies,191.6,90.34
+Hackensack,Technology,197.97,57.4113
+Mesa,Technology,935.7439999999999,92.5205
+Bloomington,Office Supplies,605.872,111.0892
+Lakewood,Technology,12215.180000000002,2815.3123
+Cincinnati,Technology,1012.988,101.34599999999999
+Chester,Technology,118.692,-23.5557
+Chester,Furniture,1074.556,7.1598000000000015
+Saint Paul,Technology,114.95,2.299
+Pasadena,Furniture,3018.16,-375.07669999999996
+Tucson,Furniture,2671.45,-319.05159999999995
+Costa Mesa,Technology,498.54600000000005,45.7899
+Amarillo,Technology,650.56,94.4692
+Peoria,Furniture,839.51,12.881600000000002
+Cleveland,Office Supplies,3345.7529999999992,-76.79800000000002
+Cleveland,Technology,2089.2,-398.5122
+Madison,Furniture,3267.76,715.2744
+San Jose,Furniture,1372.549,178.38
+Charlotte,Furniture,1794.9900000000002,-449.82090000000005
+Newark,Technology,18485.689000000006,3447.3294
+Arlington,Technology,12797.406000000003,3805.245
+Montgomery,Furniture,935.98,121.9794
+Brentwood,Office Supplies,3772.876,1045.7256
+Brentwood,Furniture,23.88,10.5072
+Redlands,Furniture,748.969,40.235200000000006
+Redlands,Technology,1295.84,145.782
+Grand Prairie,Furniture,567.2700000000001,-84.445
+Dallas,Furniture,7306.868200000001,-2023.1732
+Cincinnati,Furniture,79.384,29.769
+Laredo,Furniture,139.92,-150.414
+Fairfield,Technology,1549.156,333.4787
+Atlanta,Technology,4333.5599999999995,1744.6000000000001
+Murfreesboro,Office Supplies,59.413000000000004,2.5109999999999997
+Warner Robins,Office Supplies,41.86,10.465
+Warwick,Technology,2251.96,993.222
+Huntsville,Furniture,4104.8668,-795.6645000000001
+Westfield,Furniture,161.49,23.4078
+Scottsdale,Furniture,293.358,-298.21939999999995
+Carlsbad,Technology,67.04,6.704
+Hesperia,Furniture,861.6614999999999,-18.213599999999996
+Gilbert,Furniture,2366.174,-48.7356
+Amarillo,Office Supplies,73.92,25.272
+Lowell,Furniture,841.5400000000001,231.0138
+Plainfield,Technology,393.90000000000003,138.345
+Anaheim,Technology,422.33599999999996,47.8698
+Atlanta,Furniture,1852.3400000000001,415.20480000000003
+Westfield,Technology,254.97,91.7892
+Saginaw,Furniture,19.76,8.2992
+West Jordan,Furniture,66.69,22.0077
+Monroe,Furniture,1062.4,91.9244
+Henderson,Technology,4069.7799999999997,1023.4031
+Lakeland,Technology,1291.552,190.4908
+Lakeland,Office Supplies,1825.794,-2.968600000000002
+Austin,Furniture,535.684,-34.4093
+Lowell,Technology,1321.78,395.2043
+Fairfield,Furniture,3643.2209999999995,183.75379999999998
+Grand Prairie,Technology,285.24,16.5475
+Mission Viejo,Furniture,290.666,3.4196
+Las Vegas,Furniture,222.92000000000002,70.314
+Richmond,Technology,5910.210000000001,1986.3697999999995
+Inglewood,Furniture,557.64,137.726
+Inglewood,Technology,1076.76,344.7522
+Columbia,Technology,3382.188,1095.3012
+Fort Lauderdale,Technology,1477.7839999999999,321.3198
+Dover,Office Supplies,890.34,403.2274
+Bristol,Furniture,240.912,6.615
+Fayetteville,Technology,684.264,270.6623
+Harlingen,Furniture,241.332,-14.196
+Fremont,Furniture,15.92,7.0048
+Lakewood,Furniture,4620.775,96.40220000000002
+Akron,Technology,1183.002,-136.85120000000003
+New Rochelle,Furniture,692.5020000000001,166.5056
+Hamilton,Furniture,190.848,-21.4704
+Westland,Technology,109.95,36.2835
+Pembroke Pines,Office Supplies,193.022,41.929
+Colorado Springs,Technology,58.08,-6.534
+Des Moines,Office Supplies,369.728,151.51430000000002
+Minneapolis,Technology,377.97,105.8316
+Burlington,Furniture,7531.806,339.1359999999999
+Anaheim,Furniture,3752.284,362.0359
+Taylor,Furniture,301.96,33.2156
+Park Ridge,Office Supplies,143.856,48.5514
+Palm Coast,Furniture,232.73600000000002,21.3592
+Lawrence,Technology,2872.09,1011.6238
+Miami,Furniture,1574.4425,-196.4518
+Morristown,Furniture,74.45,20.1015
+Salem,Furniture,1391.15,-22.196399999999954
+Madison,Technology,178.11,32.0598
+Fayetteville,Furniture,1352.8980000000001,91.07719999999999
+Sierra Vista,Furniture,14.368,3.9512
+Manchester,Technology,257.98,74.8142
+Portland,Furniture,991.662,-70.14600000000002
+Westland,Furniture,287.67,34.884299999999996
+Long Beach,Technology,2795.8319999999994,797.6084000000001
+Naperville,Furniture,602.651,-163.5767
+Huntington Beach,Technology,2399.96,839.986
+Concord,Technology,3253.062,589.5856
+San Jose,Technology,1614.352,146.5364
+Park Ridge,Technology,286.4,25.06
+Memphis,Technology,1.584,0.4752
+Durham,Furniture,335.744,25.1808
+Murfreesboro,Technology,77.472,-12.021
+Morristown,Technology,480.0,225.6
+Durham,Technology,15.984,1.3986
+Green Bay,Furniture,35.7,11.936399999999999
+Quincy,Technology,427.638,124.7088
+Des Moines,Furniture,1435.2759999999998,118.44869999999999
+Las Vegas,Technology,1123.128,70.1955
+Bloomington,Technology,174.666,45.2235
+Mission Viejo,Technology,120.0,46.8
+Fremont,Technology,79.96,22.3888
+Oceanside,Office Supplies,966.5340000000001,262.7094
+Bossier City,Technology,646.74,258.696
+Florence,Technology,4023.9,1677.9341
+New Brunswick,Office Supplies,14.77,7.156700000000001
+Garland,Office Supplies,59.16,-24.897
+Round Rock,Furniture,420.8128,-439.046
+Oceanside,Furniture,1800.3639999999998,151.896
+Virginia Beach,Technology,761.19,212.6928
+Murrieta,Office Supplies,484.65,92.0835
+Washington,Technology,1379.92,648.5624
+Saint Peters,Furniture,697.16,146.4036
+Clinton,Office Supplies,1903.82,484.33200000000005
+Encinitas,Office Supplies,53.391999999999996,18.6872
+Roswell,Office Supplies,4760.309999999998,1957.2897000000003
+Jonesboro,Furniture,1745.3600000000001,408.3288
+La Porte,Office Supplies,399.532,136.9448
+Cuyahoga Falls,Furniture,8.352,1.2528
+Royal Oak,Office Supplies,35.34,16.9632
+Coral Springs,Furniture,386.032,-15.2632
+Boynton Beach,Furniture,374.15200000000004,61.1222
+Macon,Technology,116.85,43.055099999999996
+Deltona,Office Supplies,23.040000000000003,-1.62
+Pico Rivera,Furniture,145.9,62.737
+Clinton,Technology,2273.9700000000003,671.7237
+Pleasant Grove,Office Supplies,1738.2179999999998,545.6584
+Smyrna,Furniture,901.9559999999999,116.22919999999999
+Smyrna,Office Supplies,1683.3170000000002,550.5147000000001
+Smyrna,Technology,653.616,159.9597
+Florence,Furniture,2249.7699999999995,276.1269
+Mobile,Office Supplies,285.27,135.4824
+Irving,Office Supplies,516.724,-108.28040000000004
+Middletown,Furniture,209.41,48.0951
+Glendale,Furniture,1548.7199999999998,119.5928
+Niagara Falls,Office Supplies,34.992000000000004,11.431799999999999
+Pomona,Office Supplies,440.17,132.6446
+North Las Vegas,Furniture,2529.922,63.217299999999994
+Allentown,Furniture,11.648,3.3488
+Tempe,Office Supplies,144.09400000000002,13.4738
+Bridgeton,Office Supplies,52.410000000000004,3.4415999999999998
+Everett,Furniture,3610.718,642.5025999999999
+Kent,Furniture,198.46,99.23
+Washington,Furniture,1346.58,350.0835
+Plano,Technology,897.96,-1.4001999999999946
+Bayonne,Technology,168.94,72.3176
+Baltimore,Office Supplies,1637.9700000000003,617.636
+Redmond,Furniture,211.849,-112.5634
+Raleigh,Technology,2909.104,299.3167
+South Bend,Office Supplies,407.13,154.8712
+Spokane,Furniture,640.548,27.7038
+Hialeah,Office Supplies,637.4519999999999,-303.6008
+Port Orange,Office Supplies,7.824,2.934
+Medford,Office Supplies,90.218,19.700899999999997
+Indianapolis,Office Supplies,6176.919999999999,1692.1842
+Boynton Beach,Office Supplies,95.43299999999999,-10.4607
+Reading,Office Supplies,23.863999999999997,4.379
+Lafayette,Furniture,3278.44,683.4087999999999
+Paterson,Technology,281.97,78.9516
+Paterson,Office Supplies,1323.93,568.6093999999999
+Chesapeake,Office Supplies,662.2,222.11079999999998
+Lubbock,Office Supplies,87.428,-3.5311999999999997
+Johnson City,Office Supplies,545.08,-1.9418000000000033
+San Bernardino,Office Supplies,295.968,110.178
+Providence,Furniture,2718.46,536.4076
+Bozeman,Office Supplies,43.66,20.8106
+Perth Amboy,Technology,597.0,280.59
+Perth Amboy,Office Supplies,999.1,340.956
+Ontario,Furniture,283.92,-46.137
+Moorhead,Furniture,479.9,81.583
+Mesquite,Office Supplies,40.236000000000004,-86.73599999999999
+Kent,Technology,345.534,-12.1355
+Little Rock,Furniture,22.2,9.102
+Lincoln Park,Office Supplies,193.282,37.2779
+Provo,Office Supplies,555.5440000000001,192.3335
+Bangor,Furniture,109.48,33.9388
+Southaven,Office Supplies,845.4799999999999,210.7976
+Southaven,Furniture,85.98,22.3548
+New Castle,Technology,23.92,6.6976
+Sioux Falls,Furniture,182.94,27.441
+Lorain,Office Supplies,102.91699999999999,5.273499999999998
+Fresno,Office Supplies,949.7520000000002,311.47229999999996
+Fresno,Technology,1419.03,336.5416
+Milwaukee,Furniture,6649.709999999999,1384.4513000000002
+Coachella,Office Supplies,63.56,3.178
+Passaic,Technology,698.08,191.4962
+North Charleston,Office Supplies,269.49,5.3898
+Newport News,Office Supplies,1130.7099999999998,332.7337
+Bowling Green,Office Supplies,798.641,72.64860000000002
+Little Rock,Office Supplies,1291.1299999999999,435.36439999999993
+Alexandria,Technology,372.32,61.0415
+Wheeling,Furniture,1288.95,-385.46340000000004
+Asheville,Office Supplies,111.416,-7.7401
+Waukesha,Office Supplies,54.5,14.17
+Pompano Beach,Technology,2.376,0.7425
+Toledo,Office Supplies,1485.4409999999998,-41.08099999999999
+Hempstead,Office Supplies,1315.0280000000002,440.8708
+Glendale,Technology,907.024,65.60679999999999
+Allen,Office Supplies,24.72,-8.236799999999999
+Mount Pleasant,Furniture,563.08,93.5208
+Pharr,Technology,666.4,-33.32
+Brownsville,Furniture,455.0348,-23.5518
+Billings,Office Supplies,8.288,2.6936
+Gresham,Technology,403.168,25.198
+Lincoln Park,Furniture,194.32,31.0912
+Meridian,Furniture,41.96,2.9372
+Meridian,Office Supplies,287.092,92.27680000000001
+Albuquerque,Office Supplies,943.122,384.51709999999997
+Apple Valley,Office Supplies,251.76000000000002,59.6934
+Missouri City,Office Supplies,6.37,-9.555
+Sioux Falls,Office Supplies,561.54,182.09230000000002
+Visalia,Technology,7.92,3.4848
+Temecula,Technology,779.466,92.03190000000001
+Temecula,Office Supplies,29.2,9.855
+Revere,Office Supplies,471.29999999999995,175.5858
+Hempstead,Technology,519.944,100.3866
+Tinley Park,Furniture,22.288,-8.9152
+Dubuque,Furniture,1408.1,394.268
+Lancaster,Furniture,928.884,-47.9613
+Overland Park,Office Supplies,571.9599999999999,188.1438
+Carol Stream,Office Supplies,515.272,58.7659
+Saint Cloud,Technology,727.9,288.438
+Plano,Office Supplies,573.5200000000001,-111.56639999999999
+Lafayette,Office Supplies,3648.7000000000003,643.5699999999998
+College Station,Office Supplies,57.984,-64.352
+Riverside,Office Supplies,862.578,268.655
+Olympia,Office Supplies,59.71,25.0815
+Omaha,Office Supplies,1177.97,391.069
+Rock Hill,Office Supplies,11.85,3.792
+West Allis,Office Supplies,8.52,4.1748
+Chula Vista,Furniture,665.88,106.5408
+Plantation,Technology,548.736,99.668
+Rockford,Office Supplies,845.5559999999999,-736.8726
+Champaign,Furniture,151.96,-182.352
+Toledo,Technology,2758.166,-217.7185
+Homestead,Office Supplies,132.55200000000002,22.3291
+Kenosha,Office Supplies,14.98,4.494
+Port Saint Lucie,Furniture,231.92,5.798
+Covington,Technology,100.0,21.0
+Lorain,Technology,386.922,76.1469
+Broken Arrow,Technology,821.94,213.7044
+Chesapeake,Technology,780.54,285.48040000000003
+Alexandria,Office Supplies,4879.790000000001,153.12460000000002
+Mcallen,Office Supplies,398.17400000000004,-185.9733
+Cranston,Office Supplies,877.5799999999999,280.6531
+Mishawaka,Office Supplies,128.4,64.2
+Grand Rapids,Office Supplies,428.15,206.4883
+Moorhead,Technology,63.96,19.8276
+Port Arthur,Technology,439.992,164.997
+The Colony,Office Supplies,74.98400000000001,24.941
+Redmond,Technology,598.302,13.666399999999996
+Bullhead City,Furniture,14.368,3.9512
+Stockton,Technology,95.84,34.742
+Fargo,Office Supplies,919.91,230.14969999999997
+San Gabriel,Furniture,1790.29,212.3865
+Highland Park,Furniture,1838.0320000000002,-186.38699999999997
+Margate,Office Supplies,15.552,2.3328
+Sandy Springs,Office Supplies,240.65,96.1594
+Manteca,Furniture,122.352,13.7646
+El Paso,Office Supplies,683.4120000000001,25.286999999999992
+Wichita,Office Supplies,529.9599999999999,237.0062
+Danville,Office Supplies,1177.234,202.5369
+Danville,Furniture,25.02,10.5084
+Newport News,Technology,1599.92,751.9624
+Waterbury,Office Supplies,425.87999999999994,115.73739999999998
+Apopka,Office Supplies,774.666,41.3746
+Eau Claire,Office Supplies,319.88,146.25639999999999
+Marietta,Furniture,182.67,52.9743
+Marietta,Technology,302.67,56.3445
+Gaithersburg,Furniture,173.94,38.2668
+Redondo Beach,Office Supplies,137.848,62.1485
+Carrollton,Office Supplies,487.726,-550.8026
+Moreno Valley,Office Supplies,377.786,140.4677
+Georgetown,Office Supplies,1043.8400000000001,190.1516
+Trenton,Office Supplies,385.92499999999995,126.6638
+Woonsocket,Office Supplies,142.59,58.5543
+Deltona,Furniture,186.304,13.9728
+Chandler,Furniture,924.8349999999999,61.39209999999999
+Peoria,Technology,457.184,-42.2284
+Midland,Furniture,563.94,112.788
+Round Rock,Office Supplies,3959.5440000000003,-782.52
+Texarkana,Furniture,605.34,145.2816
+Yonkers,Furniture,851.482,-260.90049999999997
+Greenville,Office Supplies,54.879999999999995,-7.246
+Oceanside,Technology,1583.8400000000001,358.0745
+Wichita,Furniture,70.56,23.9904
+Oak Park,Furniture,580.8599999999999,151.0236
+Rogers,Office Supplies,40.41,18.5886
+Jupiter,Office Supplies,2.064,0.1548
+Maple Grove,Office Supplies,882.87,385.0101
+Draper,Furniture,25.16,10.5672
+North Las Vegas,Office Supplies,6129.546,1981.0455000000002
+La Crosse,Furniture,270.6,67.65
+La Mesa,Technology,284.97,85.491
+Apple Valley,Furniture,1758.085,217.78400000000002
+Holland,Office Supplies,137.86,66.6588
+Athens,Technology,1336.02,378.42379999999997
+Apopka,Furniture,129.888,12.9888
+Ann Arbor,Technology,649.11,120.0474
+Ann Arbor,Office Supplies,240.163,108.8684
+Milford,Office Supplies,98.01,37.3518
+Buffalo Grove,Furniture,355.455,-184.8366
+Hialeah,Technology,311.361,4.678800000000001
+Lake Forest,Furniture,970.0559999999999,122.72399999999999
+Leominster,Office Supplies,217.48999999999998,79.50160000000001
+Chico,Office Supplies,84.87,35.4063
+Jonesboro,Office Supplies,410.05,192.80669999999998
+Owensboro,Office Supplies,71.18,27.642799999999998
+Hattiesburg,Office Supplies,740.6600000000001,250.8886
+New Bedford,Technology,152.03,11.5149
+Kenner,Office Supplies,17.34,4.6818
+Nashua,Furniture,21.12,6.5472
+Milwaukee,Office Supplies,1854.1199999999994,656.7871000000001
+Parma,Office Supplies,235.13599999999997,72.8284
+Redwood City,Office Supplies,41.904,14.1426
+Chula Vista,Office Supplies,375.74,141.8938
+Tulsa,Office Supplies,799.3700000000002,214.5609
+Evanston,Technology,1495.52,481.9881
+Marion,Office Supplies,596.0419999999999,138.4058
+Longview,Office Supplies,94.36,31.1948
+Irving,Technology,88.776,7.7679
+Lebanon,Technology,239.976,17.9982
+Beverly,Office Supplies,2583.19,654.9194
+Corpus Christi,Office Supplies,112.26400000000001,11.771600000000001
+Eugene,Office Supplies,709.8960000000001,245.99779999999998
+Laguna Niguel,Technology,39.96,3.4965
+Laguna Niguel,Office Supplies,47.04,21.6864
+Renton,Technology,1039.992,103.9992
+Chandler,Office Supplies,151.91199999999998,20.068400000000004
+Plano,Furniture,2058.8946,-270.0888
+Meriden,Office Supplies,417.3299999999999,175.55020000000002
+Elmhurst,Furniture,634.116,-172.1172
+Santa Ana,Technology,2127.026,759.9628000000001
+Wilson,Office Supplies,205.596,-34.728
+Vineland,Furniture,499.796,9.606600000000002
+Vineland,Office Supplies,60.769999999999996,17.685200000000002
+Vineland,Technology,87.4,34.96
+Rio Rancho,Furniture,1114.192,119.5878
+Hot Springs,Furniture,159.92,31.984
+Goldsboro,Office Supplies,34.944,3.0576
+Paterson,Furniture,637.3099999999998,92.92900000000002
+Everett,Office Supplies,988.146,441.4208
+Lafayette,Technology,18109.06,8691.408800000001
+Thousand Oaks,Furniture,22.72,9.3152
+Torrance,Technology,371.2,41.76
+Beaumont,Technology,439.944,77.994
+El Paso,Technology,712.624,23.247300000000003
+Longview,Furniture,24.85,7.7035
+Hampton,Technology,226.2,58.812
+Hampton,Office Supplies,1368.3999999999999,592.7841
+Salinas,Furniture,148.257,15.6978
+Nashville,Technology,3164.08,-13.236700000000013
+Saint Charles,Furniture,226.136,-32.4234
+Athens,Office Supplies,198.25,59.8595
+Camarillo,Office Supplies,14.73,7.2177
+Yuma,Technology,785.513,-431.2869
+Des Plaines,Furniture,724.76,-213.03
+Pasco,Office Supplies,1225.192,235.5344
+Burbank,Furniture,111.0,14.43
+Chattanooga,Furniture,640.8319999999999,52.99419999999999
+Oxnard,Office Supplies,1315.24,294.0757
+Brownsville,Office Supplies,585.248,137.4434
+Visalia,Office Supplies,310.86,84.563
+Longmont,Furniture,749.488,41.0352
+Watertown,Office Supplies,1746.5900000000001,575.7781
+Brownsville,Technology,251.944,88.1804
+Pueblo,Technology,771.6700000000001,-937.4304999999999
+Providence,Technology,8222.449999999999,3604.7902999999997
+Midland,Office Supplies,4727.572,2180.8948
+Suffolk,Office Supplies,615.16,186.56699999999998
+Thornton,Office Supplies,81.92800000000001,11.6144
+Thornton,Furniture,56.288000000000004,15.012
+Davis,Office Supplies,32.4,15.552
+Morgan Hill,Furniture,474.37,-5.380400000000001
+Hollywood,Technology,383.96,38.396
+Sheboygan,Office Supplies,77.76,33.450900000000004
+Sheboygan,Technology,1.98,0.891
+Cambridge,Technology,375.86,118.5072
+East Point,Technology,75.0,18.0
+Lawton,Office Supplies,808.51,180.7329
+Bakersfield,Furniture,847.9680000000001,52.349000000000004
+League City,Office Supplies,108.952,15.9535
+Andover,Furniture,354.9,88.725
+Knoxville,Office Supplies,500.068,3.1111999999999957
+Athens,Furniture,186.54,41.0388
+El Paso,Furniture,2150.0280000000002,-228.43499999999997
+Shelton,Technology,59.97,14.9925
+Danbury,Furniture,27.46,9.8856
+Noblesville,Furniture,2678.94,241.1046
+York,Office Supplies,395.92,-84.081
+Florence,Office Supplies,1348.05,214.9051
+Plantation,Office Supplies,180.75599999999997,-37.331999999999994
+Sanford,Office Supplies,4.842,-3.5508
+The Colony,Technology,67.176,6.7176
+San Marcos,Office Supplies,77.32799999999999,-9.7632
+Edmonds,Office Supplies,414.26000000000005,144.103
+Bethlehem,Furniture,310.39,-90.63080000000001
+Bethlehem,Office Supplies,1379.244,-912.465
+Saint Louis,Office Supplies,174.17000000000002,54.956
+Hillsboro,Technology,53.04,-4.641
+Sacramento,Office Supplies,5171.518,1933.2024999999999
+Saint Charles,Office Supplies,82.024,24.6436
+Chattanooga,Office Supplies,16.592,-7.1852
+Coral Gables,Technology,52.68,19.755
+Rockford,Furniture,880.7040000000001,-556.6320000000001
+Spokane,Office Supplies,309.83,55.3089
+Marlborough,Furniture,206.64,67.60679999999999
+Hollywood,Furniture,337.088,16.8544
+Sunnyvale,Technology,339.9,77.0775
+Haltom City,Office Supplies,61.344,15.5586
+Avondale,Technology,867.7760000000001,68.3488
+Hendersonville,Office Supplies,246.834,-64.4715
+Westminster,Furniture,554.4639999999999,99.14000000000001
+Allentown,Technology,21.728,3.8024
+Allentown,Office Supplies,819.8760000000001,-233.6016
+Perth Amboy,Furniture,120.98,12.098
+Pine Bluff,Technology,199.95,63.984
+Pine Bluff,Office Supplies,12.96,6.2208
+Freeport,Furniture,435.64799999999997,64.54740000000001
+Freeport,Office Supplies,303.502,-84.63539999999998
+Delray Beach,Technology,47.92,11.98
+Fort Collins,Office Supplies,29.216,6.615600000000001
+Hagerstown,Office Supplies,43.8,20.586
+Coppell,Technology,95.84,34.742
+Greenwood,Office Supplies,240.14999999999998,115.5072
+Pomona,Furniture,742.3919999999999,-87.3246
+Mansfield,Office Supplies,41.472,14.5152
+Virginia Beach,Office Supplies,3314.4999999999995,1509.514
+Bowling Green,Technology,1137.924,104.9863
+Santa Barbara,Technology,3528.488,391.759
+East Orange,Office Supplies,345.46999999999997,160.9451
+La Porte,Furniture,582.3000000000001,36.168
+Woodstock,Technology,272.61,98.1396
+Santa Barbara,Office Supplies,398.61,119.8472
+San Bernardino,Furniture,683.332,-40.196
+Trenton,Furniture,211.62,79.416
+Cottage Grove,Office Supplies,24.56,6.8768
+Cottage Grove,Technology,119.8,47.92
+Bossier City,Office Supplies,640.52,67.87119999999999
+Omaha,Technology,3205.7799999999993,939.1262
+Edmonds,Furniture,1447.97,367.0028
+Santa Ana,Furniture,649.024,-91.3865
+Lorain,Furniture,1525.272,-714.3433
+Linden,Technology,115.36,49.6048
+Lancaster,Office Supplies,2940.4030000000007,-311.3973000000001
+Norwich,Furniture,22.2,9.102
+Milwaukee,Technology,2906.39,751.8467
+Yonkers,Office Supplies,665.9639999999999,219.4964
+Oakland,Office Supplies,1698.192,497.4697000000001
+Encinitas,Technology,119.98,57.5904
+Lansing,Office Supplies,690.3960000000001,129.1492
+Harrisonburg,Office Supplies,184.79000000000002,29.2857
+Harrisonburg,Furniture,4180.84,853.3141999999999
+Coral Springs,Office Supplies,438.96000000000004,33.82
+Gulfport,Office Supplies,80.05,39.5381
+Fresno,Furniture,5519.746499999999,300.2542000000001
+La Porte,Technology,69.9,18.873
+Deltona,Technology,683.896,109.7816
+Evanston,Furniture,258.279,-70.1043
+Provo,Furniture,2205.69,196.2339
+Salinas,Office Supplies,580.634,254.8203
+Providence,Office Supplies,5039.74,1364.459
+Coppell,Office Supplies,40.096,6.747199999999999
+Appleton,Office Supplies,21.56,10.3488
+Allen,Technology,21.48,-0.2685
+Tigard,Technology,630.488,-73.12209999999999
+Washington,Office Supplies,138.51999999999998,60.943400000000004
+Greensboro,Office Supplies,193.328,-51.93289999999999
+Muskogee,Technology,1439.92,374.3792
+South Bend,Technology,831.2,124.68
+Keller,Office Supplies,6.0,2.1
+Watertown,Furniture,2298.4080000000004,331.2291
+Broomfield,Office Supplies,62.192,-20.683
+Glendale,Office Supplies,462.12100000000004,-2.3398000000000057
+Oklahoma City,Technology,1176.3100000000002,332.4415
+Rancho Cucamonga,Office Supplies,231.852,73.7442
+Sunnyvale,Furniture,215.976,-2.6997
+Lansing,Furniture,308.96000000000004,73.2932
+Bangor,Technology,693.27,236.0772
+Middletown,Office Supplies,707.1999999999999,71.44080000000001
+New Castle,Office Supplies,60.69,16.3863
+Roswell,Furniture,780.1999999999999,203.9776
+Thousand Oaks,Office Supplies,200.1,89.39999999999999
+Holyoke,Furniture,301.96,60.392
+Elmhurst,Office Supplies,257.512,-40.014900000000004
+Passaic,Furniture,174.286,-19.9184
+Oklahoma City,Office Supplies,3363.93,700.3261000000002
+Tallahassee,Technology,6378.595999999999,314.6893
+Raleigh,Furniture,419.464,76.5325
+Pueblo,Office Supplies,915.2679999999999,36.458600000000004
+Tallahassee,Office Supplies,479.017,101.99669999999999
+Encinitas,Furniture,418.60900000000004,-5.2188
+Hoover,Office Supplies,499.87000000000006,17.1585
+Chesapeake,Furniture,4553.98,755.1958
+Orange,Office Supplies,211.10999999999999,66.5698
+Tempe,Furniture,307.92,-34.641
+Highland Park,Office Supplies,43.480000000000004,3.0078000000000005
+Noblesville,Office Supplies,12.56,5.652
+Skokie,Furniture,355.63199999999995,-339.5142
+Skokie,Office Supplies,173.93599999999995,-2.4478000000000018
+Allen,Furniture,244.006,-31.3722
+Murray,Furniture,191.82,74.8098
+Pharr,Furniture,147.012,-31.5
+Gresham,Furniture,1682.176,136.508
+Albuquerque,Technology,1277.038,249.57100000000003
+Apple Valley,Technology,43.176,15.1116
+Bolingbrook,Office Supplies,69.828,-21.365
+Fort Collins,Furniture,858.0519999999999,-259.908
+Woodland,Office Supplies,24.678,9.3864
+Pearland,Office Supplies,24.619999999999997,-13.504199999999999
+San Mateo,Office Supplies,75.18,35.3346
+Tempe,Technology,618.2879999999999,116.61679999999998
+Raleigh,Office Supplies,1178.972,96.74480000000001
+Muskogee,Office Supplies,19.669999999999998,5.311
+Gulfport,Furniture,86.45,38.038
+Hempstead,Furniture,754.614,87.80720000000001
+Conroe,Office Supplies,111.672,6.9795
+Bellevue,Office Supplies,83.382,29.1612
+Macon,Office Supplies,104.75999999999999,49.1104
+Nashville,Office Supplies,2612.471,-830.8877000000001
+Revere,Furniture,361.96,83.2508
+Dearborn Heights,Furniture,180.98,47.0548
+Santa Fe,Technology,92.52,18.504
+Carol Stream,Furniture,790.538,-98.63419999999999
+Saint Cloud,Furniture,603.92,181.176
+Mobile,Technology,3309.9399999999996,1530.5898
+Orlando,Technology,1291.92,347.36760000000004
+Bakersfield,Office Supplies,327.738,122.9767
+Yonkers,Technology,6140.22,2809.1598000000004
+Mesquite,Furniture,6.368,-2.5472
+Odessa,Furniture,903.5459999999999,-66.06060000000001
+West Allis,Furniture,241.96,24.196
+Altoona,Office Supplies,20.451,-1.1835
+Greensboro,Technology,1387.152,119.3364
+Thornton,Technology,627.032,114.21340000000001
+Roswell,Technology,1111.8100000000002,266.168
+Baytown,Office Supplies,10.368,3.6288
+Superior,Office Supplies,1126.34,457.475
+Bedford,Office Supplies,72.672,-2.8184000000000013
+Covington,Office Supplies,266.78,80.9774
+Oakland,Furniture,3019.6059999999998,85.01650000000001
+Indianapolis,Technology,1203.6200000000001,510.22319999999996
+Miramar,Furniture,978.336,-2.6152000000000015
+Deer Park,Office Supplies,6.924,-10.386
+Santa Ana,Office Supplies,590.26,168.17020000000002
+Cranston,Furniture,3147.3360000000002,356.8446
+Baltimore,Furniture,4015.8320000000003,925.0374
+Port Arthur,Furniture,246.1328,-76.0116
+Bullhead City,Office Supplies,7.92,2.772
+Lancaster,Technology,6022.177,-6879.7098
+Clarksville,Office Supplies,1707.234,-1041.0624
+Kent,Office Supplies,1153.5620000000001,504.70110000000005
+Sandy Springs,Technology,186.57999999999998,57.316900000000004
+Mentor,Office Supplies,24.0,8.0832
+Mentor,Furniture,429.154,-197.3508
+Rome,Office Supplies,134.91,57.1122
+Manteca,Office Supplies,329.83,158.4712
+Lewiston,Office Supplies,47.684,20.6646
+Logan,Office Supplies,197.476,40.339200000000005
+Spokane,Technology,1077.54,89.21340000000001
+Buffalo,Furniture,5949.21,200.70099999999996
+Wausau,Office Supplies,317.47999999999996,90.43060000000001
+Pasco,Furniture,975.92,121.99
+Oak Park,Office Supplies,10.192,1.0192
+Marietta,Office Supplies,2453.2799999999997,402.8268
+League City,Furniture,766.4159999999999,-47.303399999999996
+Lehi,Technology,1516.726,451.6626
+Trenton,Technology,1167.65,446.02
+Helena,Office Supplies,39.9,10.374
+Kirkwood,Office Supplies,28.4,13.064
+Greensboro,Furniture,826.3,-190.35689999999997
+Grand Island,Office Supplies,15.96,7.98
+Olathe,Office Supplies,797.8299999999999,183.5256
+Olathe,Furniture,40.56,12.9792
+La Mesa,Office Supplies,82.56,28.896
+Baltimore,Technology,503.0400000000001,133.5246
+Marion,Furniture,1842.652,-525.3378
+Milford,Furniture,663.98,193.8122
+Greenville,Technology,1634.246,-525.4022
+Utica,Office Supplies,134.67000000000002,60.80460000000001
+Roseville,Technology,549.99,274.995
+Conway,Furniture,301.96,45.294
+Meriden,Furniture,1133.35,294.671
+Cheyenne,Furniture,1603.136,100.196
+Reading,Furniture,849.8480000000001,-273.1432
+Tulsa,Furniture,4123.580000000001,1137.7601
+Hattiesburg,Furniture,690.48,202.31279999999998
+Caldwell,Furniture,338.352,4.2294
+Knoxville,Furniture,3338.5300000000007,-1167.0671
+Bartlett,Office Supplies,88.96,10.008
+Lebanon,Office Supplies,248.92000000000002,65.8075
+Mcallen,Technology,411.85600000000005,42.3466
+Santa Maria,Office Supplies,115.44,30.0144
+Des Plaines,Technology,383.84,47.98
+Chico,Furniture,1957.316,167.0218
+Renton,Office Supplies,202.64000000000001,81.4332
+Hollywood,Office Supplies,349.426,52.9508
+Buffalo,Office Supplies,3070.686,779.9701
+Delray Beach,Office Supplies,194.616,17.0742
+Hot Springs,Office Supplies,55.92,27.1008
+Nashua,Office Supplies,14.82,6.9654
+Abilene,Office Supplies,1.392,-3.7584
+Hampton,Furniture,1127.66,302.2362
+Normal,Furniture,366.744,-110.0232
+Helena,Technology,339.96,42.495
+Des Plaines,Office Supplies,384.612,-71.7174
+Hillsboro,Office Supplies,23.766000000000002,3.1527000000000003
+Burbank,Technology,1279.968,415.9896
+Garden City,Technology,257.98,74.8142
+Camarillo,Furniture,1452.7875000000001,151.5779
+Covington,Furniture,46.9,13.132
+Atlantic City,Office Supplies,23.36,11.68
+Garden City,Office Supplies,54.4,15.8117
+Orlando,Office Supplies,158.59199999999998,19.4989
+Everett,Technology,1066.87,277.5553
+Rome,Furniture,129.962,29.6066
+Morgan Hill,Office Supplies,70.64,13.2264
+Chico,Technology,7.992,2.6973
+Miramar,Office Supplies,552.856,34.89619999999999
+Boca Raton,Office Supplies,44.544,-24.953599999999998
+Dubuque,Technology,263.96,76.5484
+East Point,Office Supplies,165.98,74.691
+Modesto,Furniture,161.568,-28.2744
+Rapid City,Furniture,141.96,39.7488
+Middletown,Technology,238.0,38.08
+Andover,Office Supplies,80.95,35.4636
+Shelton,Office Supplies,13.36,6.4128
+Frisco,Furniture,30.336,-17.4432
+San Marcos,Furniture,10.332,-5.9409
+Greeley,Office Supplies,18.688,7.008
+Oxnard,Technology,82.95,29.0325
+Nashville,Furniture,294.312,6.633600000000001
+Reno,Office Supplies,168.118,55.5597
+Utica,Furniture,40.48,14.5728
+Coral Gables,Furniture,11.568,2.6028
+North Miami,Office Supplies,22.128,3.0798000000000005
+Pocatello,Office Supplies,511.83,42.810599999999994
+Buffalo Grove,Technology,475.944,95.1888
+Avondale,Office Supplies,79.032,7.8202
+Eau Claire,Furniture,1085.87,209.27140000000003
+Westminster,Office Supplies,1865.228,537.4490000000001
+Odessa,Office Supplies,72.578,-3.6511999999999993
+Bryan,Office Supplies,88.226,-70.28059999999999
+Mcallen,Furniture,56.686,-20.245
+Oswego,Office Supplies,321.978,-536.1275999999999
+Dearborn Heights,Office Supplies,770.61,50.844300000000004
+Beaumont,Office Supplies,23.548000000000002,-16.2904
+Broomfield,Furniture,731.312,83.128
+Wheeling,Office Supplies,658.016,278.0672
+Woodland,Technology,239.984,23.9984
+Coon Rapids,Technology,281.97,78.9516
+San Clemente,Office Supplies,90.05799999999999,42.5419
+Boise,Technology,394.746,60.6456
+Hialeah,Furniture,1390.136,119.6945
+Beaumont,Furniture,8.624,-2.5872
+Mason,Furniture,68.704,16.3172
+Santa Barbara,Furniture,362.136,-54.3204
+Bryan,Furniture,528.43,-143.431
+Indianapolis,Furniture,1925.88,539.2464
+Grand Rapids,Technology,97.98,27.4344
+Omaha,Furniture,1928.7800000000002,511.43160000000006
+Edmonds,Technology,661.462,123.142
+Torrance,Office Supplies,1646.796,461.6058
+Torrance,Furniture,1114.272,41.7852
+Jonesboro,Technology,759.91,199.9758
+Lansing,Technology,610.9300000000001,210.43099999999998
+Escondido,Office Supplies,94.548,27.753
+Rockville,Furniture,172.5,51.75
+Rockville,Technology,270.45,68.5173
+Cedar Rapids,Technology,278.4,80.736
+New Bedford,Office Supplies,83.94,38.971199999999996
+Thomasville,Office Supplies,151.292,33.393899999999995
+Laguna Niguel,Furniture,203.983,16.7986
+Grapevine,Office Supplies,41.528,8.7749
+Olympia,Technology,201.568,22.6764
+Tigard,Office Supplies,749.702,-142.82420000000002
+North Las Vegas,Technology,1141.534,203.4271
+Tulsa,Technology,634.02,154.614
+Redmond,Office Supplies,288.106,-54.8208
+Bristol,Technology,460.47,118.71730000000001
+Charlottesville,Office Supplies,34.65,10.395
+Missoula,Office Supplies,487.984,152.495
+Pomona,Technology,299.94,104.97900000000001
+College Station,Furniture,233.058,-53.2704
+Salt Lake City,Office Supplies,802.7760000000001,329.2601
+Little Rock,Technology,2247.02,710.2027
+Sacramento,Furniture,1595.452,74.3524
+Malden,Office Supplies,54.44,17.254
+Sparks,Technology,2396.4,179.73
+Passaic,Office Supplies,689.72,185.2408
+Jamestown,Technology,4708.79,1285.7714999999998
+Bellingham,Furniture,2665.62,239.9058
+Summerville,Technology,79.1,39.55
+Hot Springs,Technology,29.99,2.999
+Englewood,Technology,108.576,8.1432
+Frisco,Technology,27.168,-1.3584
+Vacaville,Office Supplies,423.28,110.0528
+Corpus Christi,Furniture,108.28,-55.501999999999995
+Redondo Beach,Furniture,308.499,-18.147
+Las Cruces,Furniture,41.37,17.3754
+Woodstock,Furniture,845.488,-12.0784
+Woodstock,Office Supplies,25.802,-6.068299999999999
+Lake Charles,Furniture,51.96,12.99
+Noblesville,Technology,399.67999999999995,106.5564
+Tallahassee,Furniture,393.056,-23.9744
+Fort Collins,Technology,47.984,0.5998
+Sterling Heights,Office Supplies,110.03999999999999,33.0676
+Yucaipa,Office Supplies,50.8,13.208
+Mobile,Furniture,1867.78,509.757
+Hickory,Technology,36.192,2.7144
+Plantation,Furniture,707.3439999999999,-50.2969
+Clinton,Furniture,1336.461,118.18639999999999
+Mesquite,Technology,5.544,1.6632
+Olympia,Furniture,759.17,91.869
+Edinburg,Office Supplies,88.276,27.808600000000002
+Pearland,Technology,470.376,52.9173
+Greenwood,Furniture,1424.9,356.225
+Woonsocket,Furniture,52.96,20.1248
+Kenosha,Furniture,1746.9499999999998,368.9408
+Sacramento,Technology,544.308,62.13099999999999
+Citrus Heights,Furniture,129.39,54.3438
+Daytona Beach,Technology,50.88,14.628
+Portage,Office Supplies,16.28,6.512
+Elkhart,Office Supplies,11.68,5.4896
+Elkhart,Technology,159.75,11.1825
+Highland Park,Technology,153.584,13.4386
+Sandy Springs,Furniture,1569.8,367.1128
+Boise,Office Supplies,3.304,1.1151
+Mentor,Technology,239.976,65.9934
+Lawton,Furniture,248.98,54.7756
+Rome,Technology,269.98,67.495
+La Crosse,Office Supplies,59.86,29.4436
+Lewiston,Technology,67.98,14.9556
+Eau Claire,Technology,239.9,71.97
+Yuma,Office Supplies,55.352000000000004,-34.704
+Pensacola,Office Supplies,2.214,-1.476
+Gaithersburg,Technology,231.98,67.2742
+Tuscaloosa,Office Supplies,33.74,15.5204
+Oklahoma City,Furniture,2056.58,547.9931
+Loveland,Office Supplies,20.964000000000002,4.477799999999999
+Waco,Furniture,328.3992,-91.7586
+Round Rock,Technology,473.696,38.1347
+Frankfort,Office Supplies,97.632,-26.055999999999997
+Woodbury,Office Supplies,607.65,196.09619999999998
+Clovis,Technology,101.34,8.1072
+Olathe,Technology,57.4,10.906
+Sparks,Office Supplies,165.56,48.806
+Norfolk,Office Supplies,17.43,8.0178
+Waco,Office Supplies,277.70799999999997,-428.3448
+Utica,Technology,479.89,113.1822
+Caldwell,Office Supplies,117.28,54.4672
+Kenner,Technology,71.98,15.1158
+Cedar Hill,Office Supplies,122.376,42.8316
+Hendersonville,Furniture,72.704,19.0848
+Cambridge,Office Supplies,99.50999999999999,43.4636
+Palatine,Technology,116.312,23.2624
+Eugene,Furniture,755.136,-111.9606
+Oxnard,Furniture,159.91,23.3495
+Draper,Technology,238.49,82.1583
+Orlando,Furniture,289.568,10.8588
+Texas City,Furniture,790.972,20.221799999999995
+Charlottesville,Furniture,67.96,12.2328
+North Charleston,Furniture,14.76,4.2804
+Saint Charles,Technology,1351.49,319.2632
+Virginia Beach,Furniture,1676.44,302.6769
+Tuscaloosa,Furniture,141.96,35.49
+Helena,Furniture,63.98,21.7532
+Bellevue,Furniture,20.24,7.8936
+Modesto,Technology,164.582,48.217400000000005
+Toledo,Furniture,222.44600000000003,-81.1973
+Greenville,Furniture,428.70399999999995,-16.340200000000003
+Newport News,Furniture,591.32,112.3508
+Bossier City,Furniture,129.92,10.3936
+Waterbury,Technology,726.94,205.8741
+Riverside,Technology,1081.6680000000001,106.0746
+Cuyahoga Falls,Office Supplies,20.741999999999997,-13.828
+Lake Forest,Office Supplies,655.48,204.8074
+Clifton,Office Supplies,81.92,22.1184
+Clifton,Furniture,254.9,76.47
+Cambridge,Furniture,26.72,11.7568
+East Point,Furniture,27.42,9.3228
+San Angelo,Office Supplies,11.648,-30.8672
+Rapid City,Office Supplies,10.68,5.0196
+Milford,Technology,199.75,87.89
+Rockville,Office Supplies,26.82,12.947400000000002
+Kissimmee,Technology,751.984,84.5982
+Pompano Beach,Office Supplies,64.384,8.048
+Norwich,Office Supplies,391.84,154.98760000000001
+Clarksville,Technology,45.408,11.9196
+Clarksville,Furniture,465.088,-26.2104
+Sanford,Furniture,220.704,-8.2764
+Port Saint Lucie,Office Supplies,17.03,-1.3490000000000002
+Greeley,Furniture,11.664,3.3534
+Twin Falls,Office Supplies,20.416,6.6352
+Twin Falls,Furniture,1128.39,259.5297
+Stockton,Furniture,629.64,107.0388
+Romeoville,Office Supplies,8.952,-14.7708
+Sunnyvale,Office Supplies,80.334,33.1295
+Haltom City,Technology,207.984,36.3972
+Las Cruces,Office Supplies,57.4,26.564
+Laurel,Furniture,27.46,9.8856
+Bangor,Office Supplies,361.7,152.2044
+Aberdeen,Office Supplies,25.5,6.63
+Santa Fe,Office Supplies,8.4,2.184
+Broken Arrow,Furniture,1592.85,350.427
+Coon Rapids,Office Supplies,221.16,57.5016
+Lodi,Office Supplies,136.98,44.4858
+Mason,Office Supplies,25.560000000000002,-20.5524
+Niagara Falls,Technology,164.85,47.8065
+Asheville,Technology,1363.96,85.2475
+Lake Elsinore,Furniture,283.92,17.745
+Farmington,Technology,159.99,54.3966
+Jefferson City,Furniture,86.62,8.662
+Oakland,Technology,1246.62,251.61669999999998
+Antioch,Office Supplies,19.44,9.3312
+Murray,Office Supplies,147.19,50.4251
+Pleasant Grove,Technology,399.96,34.9965
+Westminster,Technology,1406.954,127.09960000000001
+Carrollton,Furniture,41.120000000000005,-20.9032
+Bayonne,Office Supplies,14.46,7.0854
+Suffolk,Furniture,982.74,203.2452
+Kenosha,Technology,2144.8,654.638
+Muskogee,Furniture,262.11,62.9064
+Bowling Green,Furniture,140.81,39.4268
+Carrollton,Technology,1671.8,101.4919
+Farmington,Office Supplies,12.88,0.3864
+Stockton,Office Supplies,502.12,197.7456
+Ormond Beach,Office Supplies,2.808,-1.9656
+York,Furniture,422.058,-18.0882
+Saint Louis,Technology,111.79,43.5981
+San Angelo,Furniture,638.9879999999999,-27.686000000000003
+Marion,Technology,930.6519999999998,6.569699999999997
+Littleton,Furniture,72.294,-98.8018
+Southaven,Technology,523.9300000000001,179.7378
+Sioux Falls,Technology,392.94000000000005,133.8966
+Coachella,Technology,99.99,43.9956
+Farmington,Furniture,545.85,114.6285
+Mishawaka,Furniture,647.84,32.392
+La Quinta,Technology,46.32,18.0648
+Malden,Furniture,173.94,13.9152
+Bellingham,Office Supplies,25.12,7.85
+Alexandria,Furniture,267.46,104.4522
+Summerville,Office Supplies,327.84,157.3632
+Englewood,Office Supplies,15.48,5.6115
+Hoover,Technology,25.98,1.5588
+Pompano Beach,Furniture,23.68,6.216
+Redondo Beach,Technology,1513.456,132.4274
+Lake Charles,Office Supplies,495.45,228.26579999999998
+Pharr,Office Supplies,727.296,-172.7328
+Quincy,Furniture,329.915,35.467999999999996
+Dubuque,Office Supplies,15.24,6.858
+Dearborn Heights,Technology,99.98,42.9914
+Overland Park,Technology,34.95,15.378
+Macon,Furniture,142.4,52.688
+Manhattan,Technology,273.96,10.9584
+Johnson City,Technology,220.768,13.798
+Texarkana,Technology,48.9,18.093
+Bakersfield,Technology,201.584,12.599
+Bedford,Technology,153.584,13.4386
+Iowa City,Office Supplies,9.99,4.4955
+Boise,Furniture,696.42,160.1766
+Murray,Technology,71.928,6.2937
+Port Arthur,Office Supplies,50.928,16.7906
+Daytona Beach,Office Supplies,29.936,9.6442
+San Gabriel,Office Supplies,270.72,78.5088
+Hattiesburg,Technology,291.7,128.868
+Logan,Technology,82.8,6.624
+Waterbury,Furniture,173.24,17.324
+Parma,Furniture,3644.62,-41.7666
+Gresham,Office Supplies,48.08,-10.8416
+Georgetown,Technology,699.98,195.9944
+Kirkwood,Furniture,212.94,34.0704
+Garland,Furniture,8.544,-7.476
+Clovis,Office Supplies,10.08,3.528
+Wichita,Technology,224.75,62.93
+La Crosse,Technology,499.95,174.9825
+Pocatello,Furniture,390.36,107.09360000000001
+Pocatello,Technology,442.75199999999995,31.451700000000002
+Broken Arrow,Office Supplies,24.740000000000002,11.3912
+Redding,Technology,333.576,25.0182
+Thousand Oaks,Technology,15.984,1.1988
+Bellingham,Technology,1099.5,362.835
+Georgetown,Furniture,42.6,16.614
+Lubbock,Furniture,25.16,-11.322
+Waterloo,Office Supplies,30.32,11.8248
+Glenview,Technology,158.376,13.8579
+Commerce City,Office Supplies,146.352,-32.9292
+Wilson,Furniture,163.136,20.392
+Skokie,Technology,39.264,-4.908
+Montebello,Technology,27.88,3.9032
+El Cajon,Furniture,865.616,52.6872
+West Palm Beach,Technology,55.984,4.1988
+Superior,Furniture,47.4,21.33
+Superior,Technology,125.99,35.2772
+Burbank,Office Supplies,1856.19,334.1142
+Tigard,Furniture,13.592,-0.3398
+Bolingbrook,Technology,148.48,16.704
+Buffalo,Technology,43.6,12.208
+West Palm Beach,Office Supplies,85.34400000000001,27.410400000000003
+Boca Raton,Technology,18.464,2.308
+Knoxville,Technology,89.568,-1.1196
+Daytona Beach,Furniture,191.5155,-76.6062
+Lubbock,Technology,479.976,161.9919
+Longmont,Technology,165.6,-6.21
+San Marcos,Technology,20.784,-3.6372
+Reno,Technology,475.944,59.493
+Mansfield,Furniture,517.405,-81.3065
+Elyria,Office Supplies,1.824,-1.3984
+Hillsboro,Furniture,11.032,3.0338
+Chattanooga,Technology,331.379,-18.6172
+Hickory,Office Supplies,4.572,-3.81
+Rockford,Technology,1439.968,143.9968
+Harrisonburg,Technology,23.08,6.924
+Laurel,Office Supplies,125.13,36.2877
+Moreno Valley,Furniture,884.6800000000001,213.16240000000002
+East Orange,Technology,31.8,13.674
+Arlington Heights,Office Supplies,14.112,1.2348
+Appleton,Technology,1649.75,544.4175
+San Luis Obispo,Office Supplies,3.62,1.1946
+Springdale,Office Supplies,4.3,1.419
